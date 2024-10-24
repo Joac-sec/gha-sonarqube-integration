@@ -56,3 +56,5 @@ docker run --rm -p 8080:8080 dice:1.0
 ```
 
 * Ver el resultado de la tirada de dados en http://localhost:8080/
+
+Cambios
